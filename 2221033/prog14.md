@@ -1,4 +1,4 @@
-### Program 13(b): Write a program to show the use of continue statement
+### Program 14: Write a program to show the use of continue statement
 ```
 #include <stdio.h>
 int main() 
