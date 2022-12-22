@@ -32,7 +32,7 @@ printf("%d is not a palidromic number\n",n);
 return 0;
 }
 ```
-**Output
+**Output**
 ```
 Enter a number to check -> 121
 121 is a palidromic number
