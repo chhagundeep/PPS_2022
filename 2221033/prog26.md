@@ -15,7 +15,7 @@ printf("Factorial of %d = %d\n",n,fact(n));
 return 0;
 }
 ```
-**Output
+**Output**
 ```
 Enter a number: 9
 Factorial of 9 = 362880
