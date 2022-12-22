@@ -20,7 +20,7 @@ return 0;
 }
 ```
 
-**Output
+**Output**
 ```
 Enter number of elements to print -> 7
 0 1 1 2 3 5 8
